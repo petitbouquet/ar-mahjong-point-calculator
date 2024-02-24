@@ -1,0 +1,1 @@
+# ar-mahjong-point-calculator
